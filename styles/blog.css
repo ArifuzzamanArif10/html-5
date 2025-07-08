@@ -1,0 +1,35 @@
+nav li a{
+    text-decoration: none;
+    
+}
+nav{
+    text-align: center;
+}
+nav li{
+    list-style: none;
+    display: inline;
+    margin-right: 50px;
+   
+}
+nav li:hover{
+    background-color: aqua;
+}
+/* figcaption{ */
+    /* text-align: center; */
+  /* margin-right: 30px; */
+/* } */
+figure li{
+    display: inline;
+    text-decoration: none;
+    margin-right: 90px;
+
+}
+figure{
+        text-align: center;
+}
+ #Red{
+    text-align: left;
+}
+footer{
+    text-align: center;
+}
